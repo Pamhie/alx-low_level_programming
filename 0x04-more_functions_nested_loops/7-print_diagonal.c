@@ -1,4 +1,5 @@
 #include "main.h"
+#include <stdio.h>
 
 /**
 * main - diagonal. line
@@ -27,3 +28,4 @@ void print_diagonal(int n)
 	}
 	if (c < 1)
 		_putchar('\n');
+}
