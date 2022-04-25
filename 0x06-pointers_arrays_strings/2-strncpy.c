@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _strcpy - conpy & concatenate two strings
+ * _strncpy - conpy & concatenate two strings
  * @dest: char string
  * @src: char string
  * @n: number of chars
